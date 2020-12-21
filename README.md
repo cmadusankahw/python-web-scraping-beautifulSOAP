@@ -1,2 +1,3 @@
-# Coursera-WebScraping
-Notebooks used in the Web Scraping with Python and BeautifulSoup Coursera guided course
+# python-web-scraping-with-BeautifulSOAP   
+
+This project is based on static and dynamic web scraping, using BeautifulSOAP with Python.
